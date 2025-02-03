@@ -1,0 +1,16 @@
+.word_empty {
+  color: red;
+  font-size: 1.5em;
+}
+
+.letter_Wrong {
+  font-size: 30px;
+  border: 3px solid #000;
+  height: 50px;
+  width: 50px;
+  text-transform: uppercase;
+  background-color: #fff;
+  color: #000;
+  font-weight: bold;
+  padding: 5px;
+}
